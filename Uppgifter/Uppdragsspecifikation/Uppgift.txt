@@ -1,0 +1,12 @@
+Beskriv ett möjligt uppdrag som era robotar kan göra. Den skriftliga rapporten skall innehålla:
+–Inledning
+–Syfte
+–Metod
+
+Beskriv:
+-Mål
+-Högnivådesign
+-Möjliga delsystem
+-Testscenario för de olika nivåerna
+
+Rapporten laddas förslagsvis upp som en pdf
