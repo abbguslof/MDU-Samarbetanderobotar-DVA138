@@ -1,0 +1,32 @@
+Hej! Här kommer ett stort anslag. Var noga med att läsa allt.
+
+För det första så har jag förlängt deadlinen på projektplanen till imorgon kväll eftersom ni får en hel del ny info idag och vissa verkade kunna behöva det. Det betyder också att jag delar ut rapporter för kamratrespons på fredag. Jag är medveten om att det fortfarande finns frågetecken för er och att det kan bli lite tight att förhålla sig till all ny info. Ni gör så gott ni kan, och har utrymme att revidera er tidsplan senare.
+
+Vi har satt preliminära deadlines på milestones och slutredovisning (inklusive rapport). Ni bör se dessa på kursens startsida eller under moduler och sedan uppgifter. Dessa bör ni ha i åtanke när ni gör er tidsplanering. Notera att det är mycket som ska vara klart till första milestone, så ni kommer behöva lägga mycket tid, även utanför schemalagd tid, för att bli klara. Vi följer upp under kursens gång hur ni upplever deadlines.
+
+Angående kamratresponsseminarium/opponering:
+
+Varje grupp kommer tilldelas en annan grupps projektplan på fredag. Ni läser allihop igenom er tilldelade projektplan, och förbereder minst en fråga per person inför seminariet på onsdag. Notera att det finns två schemalagda lektioner innan dess, på måndag och tisdag. Jag kommer inte vara närvarande där, utan denna tid används för arbete med kamratrespons och förhoppningsvis påbörjat projektarbete. 
+
+Frågor på seminarium kan t.ex. röra:
+
+Oklarheter i rapporter
+Frågor om metodval (varför gör ni på detta sätt?/varför inte på detta sätt?)
+Frågor om möjliga problem som kan uppstå (Kommer inte detta orsaka problem här?)
+Frågor om tidsplaneringen (Hur kommer det sig att ni bara tilldelat två veckor för att bli klar med X?)
+Frågor på seminarium ska helst inte röra:
+
+Detaljer i rapporten som stavning/grammatik/mindre strukturella brister.
+Varje grupp förbereder en muntlig presentation av sin projektplan på max 10 minuter. Gärna med slides eller något annat visuellt hjälpmedel. Fokusera på det ni tycker är viktigt att få med.
+
+Efter presentationen ställer opponenterna sina frågor, och finns det tid över kan övriga frågor ställas. 
+
+Seminariet är ett obligatoriskt moment. Den som inte dyker upp får skriva en kort oppositionsrapport och skicka till mig och gruppen man opponerat mot. Mer info om detta kommer delas till de involverade vid behov.
+
+Jag fick en del frågor idag angående hårdvaran. Utöver den MaixDock ni fick idag så kommer ni sannolikt behöva en till enhet, förslagsvis det Arduinokort med tillhörande delar som jag tror ni redan har tillgång till, för att kontrollera era robotbilar. Det är egentligen helt upp till er vad ni använder er av, och jag är van vid att ni studenter har bättre koll på elektroniken än vad jag har. Upplever ni att ni saknar saker som ni behöver för att kunna klara uppgiften så vill jag att ni kontaktar mig.
+
+Jag fick också en fråga om det finns något bra verktyg på webben för att göra Gantt-schema. Carl hade inget tips där så jag råder er att googla, men Excel bör funka t.ex. 
+
+Kom ihåg att ni kan maila mig om ni har funderingar om något. Jag tenderer att svara på mail även utanför arbetstid fast jag inte borde. Ni kan skriva här genom Canvas eller maila mig på jonas.larsson@mdu.se
+
+Lycka till så ses vi på onsdag. 
