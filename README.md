@@ -1,10 +1,10 @@
 ## Om kursen
 
-Kursen är någorlunda intressant men väldigt lärorik. Början är extremt långsam och tråkig. Det blir ganksa mycket skrivande, planerande och lysnaned innan arbete på roboten ens kan dra igång. 
+Kursen är någorlunda intressant men väldigt lärorik. Början är extremt långsam och tråkig. Det blir ganksa mycket skrivande, planerande och lysnande innan arbete på roboten kan sätta igång. 
 
 ## Tips
 
-Kopiera inte dessa svar då dem redan har användts för att lämnas in. Ni kommer att bli underkända. Utan använd ENDAST dessa för insperation och "facit".
+Kopiera inte uppgifter då dem redan har användts för att lämnas in. Ni kommer att bli underkända och anklagade för fusk. Utan använd ENDAST dessa för insperation och "facit".
 
 ## Betyg / Godkända lösningar
 
