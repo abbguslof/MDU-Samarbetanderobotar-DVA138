@@ -1,0 +1,43 @@
+Syfte
+Kursen syftar till att ge en överblick av de grundläggande principerna för autonoma robotar. Dessa tillämpas i projektformat för en praktisk uppgift. 
+
+Kursplan
+* https://www.mdu.se/utbildning/kursplan?id=30981
+* Omfattning
+	- 7.5 hp
+	- = 5 veckors heltidsstuder (200h)
+	- > än schemalagd tid
+* Onsdagar efter lunch + gemensamma föreläsningar med Introduktion till robotik DVA100
+
+Lärandemål
+Efter avslutad kurs skall studenten:
+1. kunna redogöra för ingående delar och deras funktion i en enkel robot,
+2. ha viss förståelse för planering av uppdrag,  
+3. ha förståelse för hur positionering och lokalisering sker,
+4. kunna programmera ett inbyggt system och ha viss förståelse för dess begränsningar jämfört med en vanlig PC, 
+5. kunna grunderna i kommunikation i och mellan inbyggda system samt
+6. kunna, på ett begripligt sätt, redovisa för och motivera de lösningar som valts.
+
+Innehåll
+Kursen kommer att behandla;
+- Kommunikation mellan delar i ett inbyggt system och mellan system
+- Mekanisk konstruktion av robotar
+- Metoder för lokalisering och positionering 
+- Metoder för planering av uppdrag 
+
+Särskild behörighet
+Antagen till spetsutbildningen Teknikspets mot smarta system och produkter vid ABB Industrigymnasium.
+
+Examination
+Laboration (LAB1), Laborationsserie som kontinuerligt redovisas enligt instruktioner, 2,5 hp, examinerar lärandemål 1-6, betyg Underkänd (U) eller Godkänd (G)
+Projekt (PRO1), En uppgift som redovisas med praktisk demonstration samt skriftlig rapport, 4 hp, examinerar lärandemål 1-6, betyg Underkänd (U) eller Godkänd (G)
+Inlämningsuppgift (INL1), En uppgift som redovisas med skriftlig rapport, 1 hp, examinerar lärandemål 1 och 6, betyg Underkänd (U) eller Godkänd (G)
+
+En student som har ett intyg från MDU avseende sin funktionsnedsättning har möjlighet att anmäla önskemål om anpassning vid salstentamina eller annan examinationsform i enlighet med Regler och anvisningar för examination på grundnivå och avancerad nivå vid Mälardalens högskola (2020/1655). Det är examinator som, utifrån det intyg som utfärdats, beslutar om eventuell anpassning och i så fall vilken anpassning som ska gälla.
+
+Misstankar om vilseledande vid examination (fusk) anmäls, enligt högskoleförordningen, till universitetets rektor och prövas av universitetets disciplinnämnd. Om disciplinnämnden anser att en student gjort sig skyldig till en disciplinförseelse fattar nämnden beslut om en disciplinär åtgärd, vilket är varning eller avstängning.
+
+Handbok under studietiden: https://www.mdu.se/student/handbok-under-studietiden
+
+Betyg
+Tvågradig skala G/U
