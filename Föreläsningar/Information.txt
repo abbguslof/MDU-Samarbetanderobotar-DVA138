@@ -1,0 +1,5 @@
+Föreläsningarna följer följande namn och sortering:
+* Föreläsning X _ Beskrivning av information
+  - Tex: F1_Introdutkion
+
+Flera föreläsningar hör ihop därmed är de sorterade med samma siffra.
