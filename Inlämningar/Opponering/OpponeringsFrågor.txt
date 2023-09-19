@@ -1,0 +1,8 @@
+Zimon
+I deras lista av hårdvara nämner de inte att ska använda en servomotor. De säger inte heller någon alternativ metod för att lösa problemet med styrning.
+
+Gustav
+Vad händer om deras robot slirar eller ett hjul lyfter? Eller ännu värre hamnar upp och ned?
+
+Sebastian
+
