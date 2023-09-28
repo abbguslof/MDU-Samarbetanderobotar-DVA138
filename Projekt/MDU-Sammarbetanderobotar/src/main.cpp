@@ -6,7 +6,7 @@
  */
 
 #include <ESP8266WiFi.h>
-#include <arduino.h>
+#include <Arduino.h>
 #include "datahandler.h"
 
 #define SendKey 0 // Button to send data Flash BTN on NodeMCU
@@ -19,9 +19,7 @@ const char *ssid = "ABBgym_2.4";          // Enter   your wifi SSID
 const char *password = "mittwifiarsabra"; // Enter your wifi Password
 
 int count = 0;
-//=======================================================================
-//                    Power on setup
-//=======================================================================
+
 void setup()
 {
   Serial.begin(115200);
@@ -52,9 +50,6 @@ void setup()
   Serial.print(" on port ");
   Serial.println(port);
 }
-//=======================================================================
-//                    Loop
-//=======================================================================
 
 void loop()
 {
@@ -62,4 +57,3 @@ void loop()
 
   handle_incoming_packet(client);
 }
-//=======================================================================
