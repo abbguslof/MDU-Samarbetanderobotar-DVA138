@@ -1,6 +1,9 @@
 package main
 
 import (
+    "bufio"
+    "os"
+    "net"
 	"fmt"
 	"log"
 	"net/http"
@@ -60,7 +63,29 @@ func setupRoutes() {
 	http.HandleFunc("/ws", wsEndpoint)
 }
 
+
+func concurrentFunc() {
+    conn, err := net.Dial("tcp", "10.22.4.6:8888")
+    if err != nil {
+        fmt.Println("is nil bye")
+        os.Exit(1)
+        return
+    }
+
+    for {
+        reader := bufio.NewReader(os.Stdin)
+        fmt.Print("Text to send: ")
+        text, _ := reader.ReadString('\n')
+        fmt.Fprintf(conn, text + "\n")
+        message, _ := bufio.NewReader(conn).ReadString('\n')
+        fmt.Print("Message from server: "+message)
+    }
+}
+
 func main() {
+
+    go concurrentFunc();
+
 	fmt.Println("Hello World")
 	setupRoutes()
 	log.Fatal(http.ListenAndServe(":8080", nil))
