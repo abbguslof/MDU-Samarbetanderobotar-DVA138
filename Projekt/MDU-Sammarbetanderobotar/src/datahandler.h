@@ -10,4 +10,5 @@ typedef struct header {
 
 typedef struct payload { } Payload;
 
-int handle_incoming_packet(WiFiClient client);
+void handle_incoming_packet(WiFiClient client);
+void read_packet(WiFiClient client);
