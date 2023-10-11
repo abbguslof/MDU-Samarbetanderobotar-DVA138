@@ -1,0 +1,6 @@
+ESP32 measurements
+
+52x28 mm
+distance holes long side 44mm
+distance holes short side 21mm
+hole diameter 2.5 mm

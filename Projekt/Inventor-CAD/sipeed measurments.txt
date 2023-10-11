@@ -1,0 +1,7 @@
+Sipeed m1w measurments
+
+main body 5.25 x 3.72 cm
+
+distance between holes, long side 4.3 cm
+distance between holes, short side 2.85 cm
+hole diameter 0.2 cm
