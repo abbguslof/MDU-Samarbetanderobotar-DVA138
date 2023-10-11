@@ -21,6 +21,10 @@ Majoriteten av upggifterna följer graderingen godkännt(G) / icke godkännt(F) 
 - [-] Milestone 2 | *
 - [-] Examination | *
 
+## Kommunikation
+
+![Image of Communication](/Bilder/kommunikation.png)
+
 ## VIKTIGT
 
 ~~ANVÄND INTE DESSA!!! DE ÄR ENDAST UPPLAGDA FÖR ATT VÅR STUDERANDE GRUPP LÄTT SKULLE KUNNA SAMARBETA PÅ GRUPPUPPGITERNA. VECKOLÖSNIGARNA ÄR SEDAN UPPLAGDA FÖR ATT SAMLA ALLT MATERIAL.~~
