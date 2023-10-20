@@ -5,7 +5,6 @@
  * TCP Socket Server Send Receive Demo
  */
 
-#include <ESP8266WiFi.h>
 #include <Arduino.h>
 #include "datahandler.h"
 
