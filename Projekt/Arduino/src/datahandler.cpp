@@ -26,7 +26,7 @@ void handle_incoming_packet(WiFiClient client)
         }
     }
 }
-
+// hejsan
 void read_packet(WiFiClient client) {
     while (client.available()) {
         char c = client.read();
